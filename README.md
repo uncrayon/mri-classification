@@ -6,9 +6,9 @@ Para poder lograr esto se contruirá un pipeline que constará de una procesado 
 
 # References
 ---
-title: "Sample Document"
-output: html_document
-bibliography: bibliography.json
+title: "Sample Document"  
+output: html_document  
+bibliography: bibliography.json  
 ---
 
 
