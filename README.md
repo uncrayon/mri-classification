@@ -4,7 +4,7 @@ Este proyecto resulta del curso [_Reoconocimiento de Patrones y Aprendizaje Auto
 La primer parte de la red detectaría si en la imagen de resonancia magnética hay un tumor, de haber qué clase de tumor es y además aislar el área en la cual está el mismo.  
 Para poder lograr esto se contruirá un pipeline que constará de una procesado de datos (estándarización), una CNN profunda (o alguna variante)^\[2-6\] y al final una extracción de carácteristicas mediante una U-Net^\[1\].
 
-[image]!(./ilustraciones/pipeline_allData.png)
+![image](./ilustraciones/pipeline_allData.png)
 
 # References
 \[1\] Ronneberger, O., Fischer, P., & Brox, T. (2015). U-net: Convolutional networks for biomedical image segmentation. In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Vol. 9351, pp. 234–241). Springer Verlag. https://doi.org/10.1007/978-3-319-24574-4_28 
